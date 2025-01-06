@@ -1,0 +1,1 @@
+In this project I use python concepts to make a tic tac toe game. I use matplot to plot graph and random to generate moves in player vs computer mode. It can plot graph of wins of each player. It is two modes of player vs computer easy and hard. 
